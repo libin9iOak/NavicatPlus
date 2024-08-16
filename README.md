@@ -12,6 +12,7 @@
 
 使用本软件和技术将被视为您已经完全接受本免责声明的所有条款和条件。如果您不同意本免责声明的任何部分，请勿使用本软件和技术。
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=libin9iOak&show_icons=true&theme=cobalt)
 
 
 NavicatPlus
